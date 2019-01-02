@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beb88f05-5696-43b4-a610-165490eafc3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Burger/Burger.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="67" column="18" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="18" />
+            <state relative-caret-position="543">
+              <caret line="83" column="22" selection-start-line="83" selection-start-column="10" selection-end-line="83" selection-end-column="22" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -45,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="330">
+              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -57,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="255">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -81,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.module.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="78">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -132,11 +128,11 @@
         <option value="$PROJECT_DIR$/src/components/Burger/Burger.module.css" />
         <option value="$PROJECT_DIR$/src/components/Layout/Layout.js" />
         <option value="$PROJECT_DIR$/src/components/Burger/Burger.js" />
-        <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.module.css" />
         <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.module.css" />
+        <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" />
+        <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.module.css" />
         <option value="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" />
         <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" />
-        <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" />
       </list>
     </option>
   </component>
@@ -194,6 +190,13 @@
               <item name="Burger" type="462c0819:PsiDirectoryNode" />
               <item name="BuildControls" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="burger-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burger-app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Layout" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -249,12 +252,12 @@
       <workItem from="1546300746384" duration="2647000" />
       <workItem from="1546375295532" duration="3809000" />
       <workItem from="1546392250269" duration="866000" />
-      <workItem from="1546467814472" duration="2951000" />
+      <workItem from="1546467814472" duration="3692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15851000" />
+    <option name="totallyTimeSpent" value="16592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="738" height="877" extended-state="0" />
@@ -435,10 +438,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/18-button-code.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.module.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="78">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -446,6 +456,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -461,8 +481,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="67" column="18" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="18" />
+        <state relative-caret-position="543">
+          <caret line="83" column="22" selection-start-line="83" selection-start-column="10" selection-end-line="83" selection-end-column="22" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -471,18 +491,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="330">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
